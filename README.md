@@ -1,7 +1,7 @@
 # SQL
 SQL CLI commands
 
-Certainly! Here’s an extensive list of SQL commands and techniques, including commands for various SQL dialects and advanced operations.
+Here’s an extensive list of SQL commands and techniques, including commands for various SQL dialects and advanced operations.
 
 ### **1. SQL Basics**
 
